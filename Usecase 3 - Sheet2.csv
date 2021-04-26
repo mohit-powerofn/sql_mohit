@@ -1,0 +1,5 @@
+1. Upload the CSV data via CLI into the database
+2. Find all the duplicate time entries for respective devices.
+3. Find all the missing timestamps for respective devices.
+4. Find the hour-wise cumulative consumption of each device.
+5. Find the peak consumption reached in a given time range for all the devices.
